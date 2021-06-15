@@ -1,0 +1,1 @@
+https://github.com/honza1a/platform-samples/blob/468e76c462c85d1ae25f35f7f0288067d8ebdfa5/api/javascript/es2015-nodejs/libs/GitHubClient.js
